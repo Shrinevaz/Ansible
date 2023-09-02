@@ -1,0 +1,14 @@
+<person> 
+    <name>srinivas</name>
+    <dob> 07-07-07</dob>
+    <address>
+        <permaddress>
+            <country>india</country>
+            <city>hyd</city>
+        </permaddress>
+         <Curraddress>
+            <country>us</country>
+            <city>sterlin</city>
+        </Curraddress> 
+    </address>
+</person>
