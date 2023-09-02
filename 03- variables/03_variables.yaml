@@ -1,0 +1,8 @@
+-name:  variables from files
+hosts: localhost
+vars_files:
+-variables.yaml
+tasks:
+-name: printing variables
+  ansible.biult.debug:
+  msg: "we are learnigg {{name}}"
